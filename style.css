@@ -122,3 +122,26 @@ h2 {
     border: 4px solid #3882F6;
     border-radius: 16px;
 }
+
+/**********************************************
+********* SECTION 3 - QUOTE
+***********************************************/
+.quote {
+    flex-direction: column;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    padding: 100px 200px;
+}
+
+h3 {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    margin: 0;
+}
+
+span {
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 28px;
+}
