@@ -140,8 +140,38 @@ h3 {
     margin: 0;
 }
 
-span {
+.dog {
     align-self: flex-end;
     font-weight: bold;
     font-size: 28px;
+}
+
+/**********************************************
+********* SECTION 4 - CALL
+***********************************************/
+.call {
+    justify-content: center;
+    padding: 100px;
+    color: #F9FAF8;
+}
+
+
+.blue {
+    background-color: #3882F6;
+    width: 85%;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    padding: 64px 96px;
+}
+
+h4 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.call button {
+    border: 2px solid #F9FAF8;
+    height: 40px;
 }
