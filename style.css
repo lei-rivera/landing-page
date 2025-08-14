@@ -58,6 +58,7 @@ a {
 h1 {
     font-size: 48px;
     font-weight: 900;
+    margin: 0;
 }
 
 .img {
@@ -69,4 +70,15 @@ h1 {
 
 p {
     color: #E5E7EB;
+    margin: 0 0 10px 0;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 8px 32px;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    font-size: 16px;
 }
