@@ -1,0 +1,47 @@
+[33mcommit 4ddf7debaab7a0776bac8f1e1e23d1394392dfb4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: lei-rivera <105135536+lei-rivera@users.noreply.github.com>
+Date:   Tue Aug 12 10:46:08 2025 -0500
+
+    Layout Section 1 - 'awesome'
+    - lay out elements for section 1 'awesome'
+    - section out 'generic styling' in style.css and add label comment
+    - add flex display to any div that is a direct child of the body element
+    - remove flex display from .header
+
+[33mcommit b6aa520414554f8928ce730443a5e5492535072b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: lei-rivera <105135536+lei-rivera@users.noreply.github.com>
+Date:   Tue Aug 12 10:38:47 2025 -0500
+
+    Finish header styling
+    - center .header elements and justify contents with space between
+    - add padding to .header- add 32px gap to ul
+
+[33mcommit 75551f5df575eec9c0dd4bfb29aa45bdc3aa63aa[m
+Author: lei-rivera <105135536+lei-rivera@users.noreply.github.com>
+Date:   Tue Aug 12 10:31:26 2025 -0500
+
+    Style header elements
+    - remove body margin
+    - add styling to .header > h2
+    - add flex display to body
+    - change body flex-direction to 'column'
+    - change ul list-style to 'none'
+    - change ul padding and margin to 0
+    - add flex display to .header and ul
+
+[33mcommit 0ec32b62049c3e282c2b370ba22e82314cce1d40[m
+Author: lei-rivera <105135536+lei-rivera@users.noreply.github.com>
+Date:   Tue Aug 12 10:13:44 2025 -0500
+
+    Create files and lay out html
+    - create 'index.html' and 'style.css'
+    - change document title to 'Landing Page'
+    - lay out divs for different sections, name them, give them classes
+    - change font family to Verdana, Geneva, Tahoma, sans-serif
+    - lay out html elements for .header div
+
+[33mcommit c4e3dc729855979ece9115e0e814cc5b11306e4c[m
+Author: Lei <105135536+lei-rivera@users.noreply.github.com>
+Date:   Mon Aug 11 15:51:56 2025 -0500
+
+    Initial commit
